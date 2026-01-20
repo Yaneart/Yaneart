@@ -6,6 +6,10 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 Hi, I'm **Yaneart** — a **Fullstack Developer** focused on building clean, scalable and maintainable web applications.
 
 I care about:
@@ -16,13 +20,14 @@ I care about:
 
 Currently improving my skills in **backend**, **system design**, and **advanced frontend patterns**.
 
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divider" />
-</p>
+</td>
+<td width="35%" align="center">
 
-<p align="center">
-  <img src="./about-visual.svg" alt="About visual" />
-</p>
+<img src="./about-visual.svg" alt="About visual" />
+
+</td>
+</tr>
+</table>
 
 ---
 
