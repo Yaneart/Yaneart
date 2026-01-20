@@ -23,10 +23,6 @@ I care about:
 
 Currently improving my skills in **backend**, **system design**, and **advanced frontend patterns**.
 
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divider" />
-</p>
-
 ## 🧠 Tech Stack
 
 <p align="center">
@@ -39,10 +35,6 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 - **Backend**: Node.js, REST APIs  
 - **Architecture**: modular design, feature-based structure  
 - **Tools**: Git, Vite, ESLint, Prettier  
-
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divider" />
-</p>
 
 ## 🔗 Links
 
