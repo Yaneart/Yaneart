@@ -34,13 +34,11 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" alt="Redux"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-original.svg" width="48" alt="React Query"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tanstackquery/tanstackquery-original.svg" width="48" alt="React Query"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="48" alt="NestJS"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" alt="Express"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL"/>
   &nbsp;&nbsp;
