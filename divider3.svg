@@ -1,0 +1,13 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient exactly like banner -->
+    <linearGradient id="dividerGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.9"></stop>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Center line -->
+  <line x1="120" y1="12" x2="1080" y2="12" stroke="url(#dividerGradient)" stroke-width="1.2"></line>
+</svg>

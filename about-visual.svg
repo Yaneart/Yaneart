@@ -1,0 +1,44 @@
+<svg width="260" height="200" viewBox="0 0 260 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Banner background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f2c"></stop>
+      <stop offset="100%" stop-color="#0b3c91"></stop>
+    </linearGradient>
+
+    <!-- Circular glow -->
+    <radialGradient id="glowCircle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"></stop>
+      <stop offset="70%" stop-color="#38bdf8" stop-opacity="0.15"></stop>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <!-- Text glow -->
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="260" height="200" rx="16" fill="url(#bg)"></rect>
+
+  <!-- Stars -->
+  <circle cx="42" cy="38" r="1.4" fill="#ffffff" opacity="0.6"></circle>
+  <circle cx="210" cy="64" r="1.2" fill="#ffffff" opacity="0.5"></circle>
+  <circle cx="160" cy="28" r="1" fill="#ffffff" opacity="0.4"></circle>
+  <circle cx="90" cy="150" r="1.3" fill="#ffffff" opacity="0.4"></circle>
+
+  <!-- Breathing glow -->
+  <circle cx="130" cy="105" r="70" fill="url(#glowCircle)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <!-- Centered code icon -->
+  <text x="130" y="105" text-anchor="middle" dominant-baseline="middle" fill="#7dd3fc" font-size="30" font-family="monospace" filter="url(#textGlow)">
+    &lt;/&gt;
+  </text>
+</svg>
