@@ -1,0 +1,49 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f2c"></stop>
+      <stop offset="100%" stop-color="#0b3c91"></stop>
+    </linearGradient>
+
+    <radialGradient id="stars" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"></stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"></rect>
+
+  <!-- Stars -->
+  <circle cx="200" cy="80" r="2" fill="#fff" opacity="0.8"></circle>
+  <circle cx="400" cy="120" r="1.5" fill="#fff" opacity="0.6"></circle>
+  <circle cx="700" cy="60" r="2" fill="#fff" opacity="0.7"></circle>
+  <circle cx="950" cy="140" r="1.8" fill="#fff" opacity="0.6"></circle>
+  <circle cx="1100" cy="90" r="1.2" fill="#fff" opacity="0.5"></circle>
+
+  <!-- Glow overlay -->
+  <rect width="1200" height="300" fill="url(#stars)"></rect>
+
+  <!-- Title -->
+  <text x="600" y="130" text-anchor="middle" fill="#ffffff" font-size="46" font-family="monospace" filter="url(#glow)">
+    Welcome to Yaneart's GitHub
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="180" text-anchor="middle" fill="#7dd3fc" font-size="22" font-family="monospace" opacity="0.9">
+    Fullstack Developer · React · TypeScript · Node.js
+  </text>
+
+  <!-- Code icon -->
+  <text x="600" y="230" text-anchor="middle" fill="#38bdf8" font-size="28" font-family="monospace" opacity="0.8">
+    &lt;/&gt;
+  </text>
+</svg>
