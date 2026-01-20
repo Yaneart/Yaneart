@@ -49,10 +49,9 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 
 ## 🛠 What I Work With
 
-- **Frontend**: React, TypeScript, modern CSS  
-- **Backend**: Node.js, REST APIs  
-- **Architecture**: modular design, feature-based structure  
-- **Tools**: Git, Vite, ESLint, Prettier  
+- Predictable state and data flow  
+- Feature-based architecture  
+- Clean, maintainable code
 
 ## 🔗 Links
 
