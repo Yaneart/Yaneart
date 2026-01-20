@@ -23,6 +23,8 @@ I care about:
 
 Currently improving my skills in **backend**, **system design**, and **advanced frontend patterns**.
 
+## 🛠 Tech Stack
+
 <div align="left" style="background: linear-gradient(135deg, #0b1220, #1e3a8a); padding: 24px; border-radius: 18px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript"/>
   &nbsp;&nbsp;
