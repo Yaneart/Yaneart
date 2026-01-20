@@ -6,9 +6,7 @@
 
 ## 👋 About Me
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr style="border:none;">
-<td width="65%" valign="top" style="border:none; padding-right:24px;">
+<img src="./about-visual.svg" align="right" width="260" alt="About visual" />
 
 Hi, I'm **Yaneart** — a **Fullstack Developer** focused on building clean, scalable and maintainable web applications.
 
@@ -20,14 +18,6 @@ I care about:
 
 Currently improving my skills in **backend**, **system design**, and **advanced frontend patterns**.
 
-</td>
-<td width="35%" align="center" style="border:none; padding-left:24px;">
-
-<img src="./about-visual.svg" alt="About visual" />
-
-</td>
-</tr>
-</table>
 
 ## 🧠 Tech Stack
 
