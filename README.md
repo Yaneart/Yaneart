@@ -8,7 +8,7 @@
   src="./about-visual.svg"
   align="right"
   width="240"
-  style="margin-top:32px"
+  style="margin-top:40px"
   alt="About visual"
 />
 
