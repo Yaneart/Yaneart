@@ -7,11 +7,11 @@
 <img
   src="./about-visual.svg"
   align="right"
-  width="240"
-  style="margin-top:40px"
+  width="260"
   alt="About visual"
 />
 
+<br /><br /><br />
 
 Hi, I'm **Yaneart** — a **Fullstack Developer** focused on building clean, scalable and maintainable web applications.
 
