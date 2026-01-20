@@ -6,15 +6,32 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 Hi, I'm **Yaneart** — a **Fullstack Developer** focused on building clean, scalable and maintainable web applications.
 
 I care about:
-- 🧠 architecture and clear structure
-- 🎨 UI that feels simple and solid
-- ⚡ performance and developer experience
-- 🧩 predictable state and data flow
+- 🧠 architecture and clear structure  
+- 🎨 UI that feels simple and solid  
+- ⚡ performance and developer experience  
+- 🧩 predictable state and data flow  
 
 Currently improving my skills in **backend**, **system design**, and **advanced frontend patterns**.
+
+</td>
+<td width="35%" align="center">
+
+<img src="./about-visual.svg" alt="About visual" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="divider" />
+</p>
 
 ---
 
@@ -22,6 +39,10 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
@@ -33,16 +54,8 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 - **Architecture**: modular design, feature-based structure  
 - **Tools**: Git, Vite, ESLint, Prettier  
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaneart&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaneart&theme=tokyonight&hide_border=true" />
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
