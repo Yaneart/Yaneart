@@ -9,7 +9,7 @@
 <img
   src="./about-visual.svg"
   align="right"
-  width="260"
+  width="280"
   alt="About visual"
 />
 
