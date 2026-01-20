@@ -30,7 +30,7 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 </table>
 
 <p align="center">
-  <img src="./divider3.svg" width="100%" alt="divider" />
+  <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
