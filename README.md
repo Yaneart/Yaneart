@@ -26,11 +26,14 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git&theme=dark&size=48"
-    style="pointer-events:none;"
-    alt="Tech stack"
+<svg width="360" height="60" viewBox="0 0 360 60" xmlns="http://www.w3.org/2000/svg">
+  <image
+    href="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,git&theme=dark&size=48"
+    x="0"
+    y="6"
+    height="48"
   />
+</svg>
 </p>
 
 ## 🛠 What I Work With
