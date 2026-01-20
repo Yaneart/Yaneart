@@ -2,6 +2,8 @@
   <img src="./download.svg" alt="Yaneart banner" />
 </p>
 
+---
+
 ## 👋 About Me
 
 <table>
@@ -26,10 +28,7 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divider" />
-</p>
+---
 
 ## 🧠 Tech Stack
 
@@ -40,6 +39,8 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
 <p align="center">
   <img src="./divider.svg" width="100%" alt="divider" />
 </p>
+
+---
 
 ## 🛠 What I Work With
 
@@ -52,6 +53,8 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
   <img src="./divider.svg" width="100%" alt="divider" />
 </p>
 
+---
+
 ## 🔗 Links
 
 <p align="center">
@@ -62,6 +65,8 @@ Currently improving my skills in **backend**, **system design**, and **advanced 
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <sub>Building things step by step 🚀</sub>
