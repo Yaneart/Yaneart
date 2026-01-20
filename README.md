@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Yaneart banner" />
+  <img src="./download.svg" alt="Yaneart banner" />
 </p>
 
 ---
