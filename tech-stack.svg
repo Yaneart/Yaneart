@@ -1,0 +1,43 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ===== BACKGROUND (как в баннере) ===== -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"></stop>
+      <stop offset="100%" stop-color="#1e3a8a"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="140" rx="22" fill="url(#bg)"></rect>
+
+  <!-- ===== TECH STACK ICONS ===== -->
+  <g filter="url(#glow)">
+    <image x="60" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></image>
+
+    <image x="150" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></image>
+
+    <image x="240" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></image>
+
+    <image x="330" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></image>
+
+    <image x="420" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></image>
+
+    <image x="510" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></image>
+
+    <image x="600" y="38" width="64" height="64" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></image>
+  </g>
+
+  <!-- ===== CAPTION ===== -->
+  <text x="60" y="118" font-size="14" font-family="JetBrains Mono, monospace" fill="#93c5fd">
+    Tech Stack · Frontend · React · TypeScript · Node.js
+  </text>
+
+</svg>
